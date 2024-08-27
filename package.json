@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://suraj126708.github.io/Gym-website",
+  "homepage": "https://suraj126708.github.io/Gym-Website-Animated-",
   "dependencies": {
     "@gsap/react": "^2.1.1",
     "@react-google-maps/api": "^2.19.3",
